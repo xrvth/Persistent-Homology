@@ -2,6 +2,8 @@
 
 ### _**General info**_
 Python project about persistent homology applications.
+
+<img src="https://raw.githubusercontent.com/xrvth/Persistent-Homology/main/pictures/example.png?token=AJSEAR27OQ4RMFCNDZCVWMDAZIPWW" width="700"/>
 	
 ### _**Technologies**_
 Project is created with:
