@@ -3,7 +3,12 @@
 ### _**General info**_
 Python project about persistent homology applications.
 
-<img src="https://raw.githubusercontent.com/xrvth/Persistent-Homology/main/pictures/example.png?token=AJSEAR4AH3KJCTX22NFFHPTAZIQ6I" width="700"/>
+<img src="https://raw.githubusercontent.com/xrvth/Persistent-Homology/main/pictures/example.png" width="700"/>
+
+Visualisation of Point Clouds
+
+<img src="https://raw.githubusercontent.com/xrvth/Persistent-Homology/main/pictures/visualisation.png" width="700"/>
+	
 	
 ### _**Technologies**_
 Project is created with:
