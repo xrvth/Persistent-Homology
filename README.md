@@ -16,6 +16,7 @@ Project is created with:
 * [Ripser library](https://github.com/Ripser/ripser)
 * Persim library
 * [Laspy library](https://pypi.org/project/laspy/)
+* Matplotlib library (for visualisations)
 
 ### _**Sources used**_
 * Point Cloud Data of Kumamoto Prefecture, Tsuchiyama and Santorigiru Park from [OpenTopography](https://opentopography.org/)
