@@ -17,6 +17,7 @@ Project is created with:
 * Persim library
 * [Laspy library](https://pypi.org/project/laspy/)
 * Matplotlib library (for visualisations)
+* NumPy library (for generator)
 
 ### _**Sources used**_
 * Point Cloud Data of Kumamoto Prefecture, Tsuchiyama and Santorigiru Park from [OpenTopography](https://opentopography.org/)
@@ -34,3 +35,9 @@ To run, you only need to (python v3 needed):
 ```
 $ python3 project.py
 ```
+To run `project_visualisation.py` you need to install matplotlib.
+```
+$ pip install matplotlib
+$ python3 project_visualisation.py
+```
+
