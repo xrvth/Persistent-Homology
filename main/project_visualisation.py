@@ -75,7 +75,7 @@ y = Cube[:,1]
 z = Cube[:,2]
 
 c = np.arange(len(x)) / len(x)
-Cub.set_title('Loop Point Cloud')
+Cub.set_title('Cube Point Cloud')
 Cub.scatter(x, y, z, c = 0.5 * c, cmap = plt.cm.cool, marker = 'o')
 
 
