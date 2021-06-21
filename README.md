@@ -30,7 +30,6 @@ For this project you have to install some additional Python libraries.
 ```
 $ pip install ripser
 $ pip install laspy
-$ pip install pye57
 $ pip install gudhi
 ```
 To run, you only need to (python v3 needed):
