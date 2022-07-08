@@ -3,6 +3,8 @@
 ### _**General info**_
 Python project about persistent homology applications.
 
+[Link to presentation.](https://www.canva.com/design/DAEiC76bTFQ/sbs5Sdsk2lrd-ezDuLLSWg/view?utm_content=DAEiC76bTFQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 <img src="https://raw.githubusercontent.com/xrvth/Persistent-Homology/main/pictures/example.png" width="700"/>
 
 Visualisation of Point Clouds
